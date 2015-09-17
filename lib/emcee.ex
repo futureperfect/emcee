@@ -1,0 +1,2 @@
+defmodule Emcee do
+end
